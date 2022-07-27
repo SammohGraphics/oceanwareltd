@@ -6,11 +6,8 @@ export default function Example() {
 		<div className="lg:w-1/3">
 			<a rel="noopener noreferrer" href="#" className="flex justify-center space-x-3 lg:justify-start">
 				<div className="flex items-center justify-center">
-				{/* <a href="javascript:void(0)">
               <img className="block  h-12 w-auto" src="img/logo.png" alt="Oceanware Logo" />
-            </a> */}
 				</div>
-				
 			</a>
 		</div>
 		<div className="grid grid-cols-2 text-sm gap-x-3 gap-y-8 lg:w-2/3 sm:grid-cols-4">
@@ -57,7 +54,7 @@ export default function Example() {
 				</ul>
 			</div>
 			<div className="space-y-3">
-				<div className="uppercase dark:text-gray-50">Social media</div>
+				<div className="uppercase dark:text-gray-500">Social media</div>
 				<div className="flex justify-start space-x-3">
 					<a rel="noopener noreferrer" href="#" title="Facebook" className="flex items-center p-1">
 						<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 32 32" className="w-5 h-5 fill-current">
