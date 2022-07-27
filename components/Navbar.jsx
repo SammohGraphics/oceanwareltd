@@ -56,16 +56,16 @@ export default function NavBar() {
               }`}
           >
             <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
-              <li className="text-gray-900 hover:text-indigo-700">
+              <li className="text-blue-900 font-bold hover:text-sky-600">
                 <a href="/">Home</a>
               </li>
-              <li className="text-gray-900 hover:text-indigo-700">
+              <li className="text-blue-900 font-bold hover:text-sky-600">
                 <a href="service">Service</a>
               </li>
-              <li className="text-gray-900 hover:text-indigo-700">
+              <li className="text-blue-900 font-bold hover:text-sky-600">
                 <a href="contact">Contact</a>
               </li>
-              <li className="text-gray-900 hover:text-indigo-700">
+              <li className="text-blue-900 font-bold hover:text-sky-600">
                 <a href="about">About</a>
               </li>
             </ul>
