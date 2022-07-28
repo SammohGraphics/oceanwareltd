@@ -7,6 +7,8 @@ import Footer from '../components/Footer'
 import Feature from '../components/Feature'
 import Promise from '../components/Promise'
 import Organization from "../components/Organization";
+import Contact from "../components/Contact";
+import Team from "../components/Team";
 
 
 
@@ -29,6 +31,8 @@ export default function Home() {
             <Feature/>
             <Organization/>
             <Promise/>
+            <Team/>
+            <Contact/>
             <Footer/>
 
         </div>
